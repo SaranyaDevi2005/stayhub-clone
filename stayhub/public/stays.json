@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Cozy Beach Bungalow",
+    "location": "Goa",
+    "price": 2500,
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+    "description": "Enjoy a peaceful getaway by the beach with palm trees and ocean breeze.",
+    "amenities": ["WiFi", "AC", "Beach Access", "Private Balcony"],
+    "availability": ["2025-04-18", "2025-05-05"]
+  },
+  {
+    "id": 2,
+    "title": "Mountain View Cottage",
+    "location": "Manali",
+    "price": 2000,
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+    "description": "Cozy cottage surrounded by pine trees and snow-capped mountains.",
+    "amenities": ["Heater", "Fireplace", "Mountain View", "Hot Water"],
+    "availability": ["2025-04-20", "2025-05-10"]
+  },
+  {
+    "id": 3,
+    "title": "Backwater Villa",
+    "location": "Alleppey",
+    "price": 2800,
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+    "description": "Luxurious villa on the serene backwaters with boat access.",
+    "amenities": ["WiFi", "Private Boat", "AC", "Traditional Meals"],
+    "availability": ["2025-04-22", "2025-05-15"]
+  },
+  {
+    "id": 4,
+    "title": "Desert Camp Retreat",
+    "location": "Jaisalmer",
+    "price": 1800,
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+    "description": "Rustic desert camp under the stars with cultural performances.",
+    "amenities": ["Camel Rides", "Cultural Shows", "Tented Stay", "Meals Included"],
+    "availability": ["2025-04-25", "2025-05-20"]
+  },
+  {
+    "id": 5,
+    "title": "Tea Estate Stay",
+    "location": "Munnar",
+    "price": 2200,
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+    "description": "Stay amidst lush green tea plantations with scenic views.",
+    "amenities": ["Guided Tours", "Tea Tasting", "WiFi", "Heater"],
+    "availability": ["2025-04-19", "2025-05-25"]
+  },
+  {
+    "id": 6,
+    "title": "Colonial Heritage Villa",
+    "location": "Pondicherry",
+    "price": 2600,
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+    "description": "Experience French charm and colonial architecture near the beach.",
+    "amenities": ["Free Breakfast", "Colonial Decor", "WiFi", "Garden"],
+    "availability": ["2025-04-21", "2025-05-12"]
+  },
+  {
+    "id": 7,
+    "title": "Hilltop Treehouse",
+    "location": "Ooty",
+    "price": 2300,
+    "image": "https://images.unsplash.com/photo-1523413651479-597eb2da0ad6",
+    "description": "Stay up in the trees with panoramic views of the Nilgiris.",
+    "amenities": ["Treehouse Stay", "Eco-friendly", "Breakfast Included", "WiFi"],
+    "availability": ["2025-04-18", "2025-05-15"]
+  },
+  {
+    "id": 8,
+    "title": "Luxury City Loft",
+    "location": "Bangalore",
+    "price": 3000,
+    "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+    "description": "Modern loft in the heart of the city with all premium facilities.",
+    "amenities": ["Gym", "High-Speed WiFi", "Workspace", "Smart TV"],
+    "availability": ["2025-04-20", "2025-05-30"]
+  }
+]
